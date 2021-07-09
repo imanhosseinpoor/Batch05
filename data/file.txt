@@ -1,0 +1,3 @@
+this is iman,today we are learning git
+this text is entered using nano
+this text is entered using vmani
